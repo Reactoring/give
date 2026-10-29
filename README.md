@@ -2,8 +2,6 @@
 
 **A Claude Code skill that checks and acts on any system, through the cheapest path that works.**
 
-"Check that the form saves." "Create the incident." "Does the staging page still load?" Give turns these sentences into one command, one JSON line back, and a reusable script for next time.
-
 Give is the method I built so Claude Code can verify scenarios and take actions on GitHub, Google Cloud, ServiceNow, internal portals or a local app on any port, without loading a single MCP server. It is a skill: one `SKILL.md`, a few Node scripts, and a catalogue that grows with use.
 
 ---
